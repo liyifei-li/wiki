@@ -1,0 +1,11 @@
+created: 20210606080928493
+dependents: 
+description: KaTeX library for mathematical typography
+library-version: v0.10.2
+list: readme usage
+modified: 20210626103358365
+name: KaTeX
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/katex
+type: application/json
+version: 5.1.23
